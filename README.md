@@ -1,5 +1,5 @@
 <h1 align="center">Hey there ! I'm Vedanti Udapure</h1>
-<h2 align="center" style="color:red">Tech Enthusiast | Web Developer | Competitive Coder</h2>
+<h2 align="center" style="color:red;">Tech Enthusiast | Web Developer | Competitive Coder</h2>
 <!--
 **vedanti-u/vedanti-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
