@@ -17,7 +17,7 @@
 <p align="center">
 <a href="mailto:vedanti.vvu@gmail.com"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
-<a href="[https://linkedin.com/in/vedanti udapure](https://www.linkedin.com/in/vedanti-udapure/)" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin.png" alt="vedanti udapure" height="50" width="50" /></a>
+<a href="[https://linkedin.com/in/vedanti udapure](https://www.linkedin.com/in/vedanti-udapure/)" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/LinkedIn_logo_initials.png" alt="vedanti udapure" height="50" width="50" /></a>
 <a href="[https://instagram.com/_vedanti.u_](https://www.instagram.com/_vedanti.u_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vedanti.u_" height="30" width="40" /></a>
 </p>
 
