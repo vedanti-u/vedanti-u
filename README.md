@@ -16,9 +16,9 @@
 ## <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="mailto:vedanti.vvu@gmail.com"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
-<a href="[https://linkedin.com/in/vedanti udapure](https://www.linkedin.com/in/vedanti-udapure/)" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
-<a href="[https://instagram.com/_vedanti.u_](https://www.instagram.com/_vedanti.u_/)" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
+<a href="https://www.instagram.com/_vedanti.u_/" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
 </p>
 
 <!--
