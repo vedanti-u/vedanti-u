@@ -69,7 +69,6 @@
 
 ## <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanti-u&theme=github-dark&card_width=448)](https://git.io/streak-stats)
 
 
 
