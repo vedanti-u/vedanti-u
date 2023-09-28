@@ -67,7 +67,7 @@
 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
 
-## <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
 
 
 
