@@ -28,7 +28,7 @@
 ## <h3 align="center">Languages and Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-<code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
+<img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" />
 <code><img height="25" src="https://skillicons.dev/icons?i=cpp&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=java&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
