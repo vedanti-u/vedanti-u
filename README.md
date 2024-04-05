@@ -1,5 +1,5 @@
-<h1 align="center">Hey ! I'm Vedanti Udapure</h1>
-<h3 align="center" style="color:red;">Tech Enthusiast | Web Developer | Competitive Coder</h3>
+<h1 align="left">Hey ! I'm Vedanti Udapure</h1>
+<h3 align="left" style="color:red;">Tech Enthusiast | Web Developer | Competitive Coder</h3>
  
 <!--     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti-u&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti-u" /> </p>
@@ -14,19 +14,19 @@
 - 📫 How to reach me **vedanti.vvu@gmail.com**
 -->
 
-## <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="mailto:vedanti.vvu@gmail.com"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
-<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
-<a href="https://twitter.com/vedanti_u" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
-<a href="https://www.instagram.com/_vedanti.u_/" target="blank"><img align="center" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
+## <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:vedanti.vvu@gmail.com"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
+<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
+<a href="https://twitter.com/vedanti_u" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
+<a href="https://www.instagram.com/_vedanti.u_/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
 </p>
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,react,ts,figma,git,github,mysql,nextjs,nodejs,php,postgres,postman,prisma,supabase,tailwind,vercel&perline=10)](https://skillicons.dev)
 -->
-## <h3 align="center">Languages and Frameworks</h3>
-<p align="center">
+## <h3 align="left">Languages and Frameworks</h3>
+<p align="left">
   <a href="https://skillicons.dev">
 <code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=cpp&perline=1&theme=light" /></code>
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-## <h3 align="center">Tools and Environments</h3>
-<p align="center">
+## <h3 align="left">Tools and Environments</h3>
+<p align="left">
   <a href="https://skillicons.dev">
 <code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=idea&perline=1&theme=light" /></code>
@@ -65,9 +65,9 @@
 </p>
 <br>
 
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
+ <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
 
 
 
