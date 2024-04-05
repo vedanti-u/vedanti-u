@@ -1,6 +1,7 @@
 <h1 align="left">Hey ! I'm Vedanti Udapure</h1>
-<h3 align="left" style="color:red;">Tech Enthusiast | Web Developer | Competitive Coder</h3>
- 
+<h3>
+ 🌟 I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepared to make a lasting impression in the world of Tech 🚀
+ </h3>
 <!--     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti-u&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti-u" /> </p>
 -->
@@ -21,11 +22,12 @@
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
 <a href="https://www.instagram.com/_vedanti.u_/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
 </p>
-
+</br>
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,react,ts,figma,git,github,mysql,nextjs,nodejs,php,postgres,postman,prisma,supabase,tailwind,vercel&perline=10)](https://skillicons.dev)
 -->
-## <h3 align="left">Languages and Frameworks</h3>
+</br>
+<h3 align="left">Languages and Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
 <code><img height="25" src="https://skillicons.dev/icons?i=c&perline=1&theme=light" /></code>
@@ -65,11 +67,11 @@
 </p>
 <br>
 
- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
+<!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
 
-
+-->
 
 
 
