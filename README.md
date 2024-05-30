@@ -1,32 +1,35 @@
-<h1 align="left">Hey ! I'm Vedanti Udapure</h1>
+<p align="center"> <img src="github-header-image-1.png" alt="vedanti-u" /> </p>
 <h3>
- 🌟 I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepared to make a lasting impression in the world of Tech 🚀
- </h3>
-<!--     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti-u&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti-u" /> </p>
--->
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedanti-u" alt="vedanti-u" /></a> </p>
--->
-<!--
-<p align="left"> <a href="https://twitter.com/vedanti_u" target="blank"><img src="https://img.shields.io/twitter/follow/vedanti_u?logo=twitter&style=for-the-badge" alt="vedanti_u" /></a> </p>
--->
-<!-- 
+<p align="center">
+
+I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepared to make a lasting impression in the world of Tech 🚀
+
+</p>
+</h3>
+
 - 📫 How to reach me **vedanti.vvu@gmail.com**
--->
+
 
 ## <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="mailto:vedanti.vvu@gmail.com"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
 <a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
 <a href="https://www.instagram.com/_vedanti.u_/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/pngegg.png" alt="_vedanti.u_" height="38" width="38" /></a>
+
+
 </p>
 </br>
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,react,ts,figma,git,github,mysql,nextjs,nodejs,php,postgres,postman,prisma,supabase,tailwind,vercel&perline=10)](https://skillicons.dev)
 -->
 </br>
+
+### SKILLS AND TOOLS:
+
+
+
 <h3 align="left">Languages and Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,6 +53,7 @@
 </p>
 
 ## <h3 align="left">Tools and Environments</h3>
+
 <p align="left">
   <a href="https://skillicons.dev">
 <code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
@@ -71,23 +75,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
 
--->
-
-
-
-
-
-<!--
-**vedanti-u/vedanti-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
