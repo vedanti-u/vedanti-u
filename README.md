@@ -1,18 +1,28 @@
 <p align="center"> <img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" /> </p>
 <h3>
-<p align="center">
+<p align="left">
 
 I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepared to make a lasting impression in the world of Tech 🚀
 
 </p>
 </h3>
 
-- 📫 How to reach me **vedanti.vvu@gmail.com**
+> How to reach me : **vedanti.vvu@gmail.com** , **udapurevv@rknec.edu**
 
+-------
 
 ## <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
+<a href="mailto:vedanti.vvu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+<a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+<a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+
+https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white
+ https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
+ https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 <a href="mailto:vedanti.vvu@gmail.com"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
 <a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
@@ -21,14 +31,10 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 
 </p>
 </br>
-<!--
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,py,react,ts,figma,git,github,mysql,nextjs,nodejs,php,postgres,postman,prisma,supabase,tailwind,vercel&perline=10)](https://skillicons.dev)
--->
-</br>
 
 ### SKILLS AND TOOLS:
 
-<div align="center">
+<div align="left">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,12 +55,12 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWSLambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=Serverless&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
