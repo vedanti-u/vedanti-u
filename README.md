@@ -15,14 +15,17 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 
 <p align="left">
 
-<a href="mailto:vedanti.vvu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<!--<a href="mailto:vedanti.vvu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
 https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white
  https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
  https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+ -->
 <a href="mailto:vedanti.vvu@gmail.com"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/gmail.png" alt="vedanti's gmail" width="40px" /></a>
 <a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/linkedin%20Updated.png" alt="vedanti udapure" height="40" width="40" /></a>
 <a href="https://twitter.com/vedanti_u" target="blank"><img align="left" src="https://github.com/vedanti-u/vedanti-u/blob/UpdatingRM/ReadmeMedia/logo-white.png" alt="vedanti_u" height="27" width="27" /></a>
