@@ -41,7 +41,7 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 
 ### Skills & Tools:
 
-<div align="center">
+<div align="left">
 
 <!--[![My Skills](https://skillicons.dev/icons?i=java,js,ts,c,cpp,python,mysql,postgres,nodejs,express,react,next,electron,html,css,tailwind,aws,supabase,npm,linux,postman,prisma,&perline=15)](https://skillicons.dev)
 -->
@@ -89,6 +89,14 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 
 </div>
 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
+</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" />
+</a> -->
+
+
 <!--
 <h3 align="left">Languages and Frameworks</h3>
 <p align="left">
@@ -131,8 +139,6 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 </p>
 <br>
 
-<!-- <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
