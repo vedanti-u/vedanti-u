@@ -13,13 +13,19 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 
 <p align="left">
 
-<!--<a href="mailto:vedanti.vvu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-<a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+<a href="mailto:vedanti.vvu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+<a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>
+<a href="https://www.instagram.com/_vedanti.u_/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-
+<!--
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
-
 https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white
  https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
  https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
@@ -35,10 +41,10 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 
 ### Skills & Tools:
 
-<div align="left">
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,c,cpp,python,mysql,postgres,nodejs,express,react,next,electron,html,css,tailwind,aws,supabase,npm,linux,postman,prisma,&perline=15)](https://skillicons.dev)
-
+<!--[![My Skills](https://skillicons.dev/icons?i=java,js,ts,c,cpp,python,mysql,postgres,nodejs,express,react,next,electron,html,css,tailwind,aws,supabase,npm,linux,postman,prisma,&perline=15)](https://skillicons.dev)
+-->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
