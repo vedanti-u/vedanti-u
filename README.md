@@ -9,9 +9,6 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 
 > How to reach me : **vedanti.vvu@gmail.com** , **udapurevv@rknec.edu**
 
-
--------
-
 ## <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -36,9 +33,9 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 </p>
 </br>
 
-### SKILLS AND TOOLS:
+### Skills & Tools:
 
-<div align="center">
+<div align="left">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -83,6 +80,7 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 
 </div>
 
+<!--
 <h3 align="left">Languages and Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
