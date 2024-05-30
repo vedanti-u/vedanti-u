@@ -1,4 +1,4 @@
-<p align="center"> <img src="github-header-image-1.png" alt="vedanti-u" /> </p>
+<p align="center"> <img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" /> </p>
 <h3>
 <p align="center">
 
