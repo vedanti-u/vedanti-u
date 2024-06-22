@@ -24,7 +24,7 @@ I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepa
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=vedanti-u)
+
 <!--
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white
