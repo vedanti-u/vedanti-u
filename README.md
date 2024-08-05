@@ -1,11 +1,12 @@
 <p align="center"> <img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" /> </p>
 <h3>
 <p align="left">
-
-I'm a tech enthusiast, problem-solver, and relentless seeker of knowledge, Prepared to make a lasting impression in the world of Tech 🚀
+ 
+I'm a passionate tech enthusiast, a dedicated problem-solver, and a relentless seeker of knowledge, poised to make a transformative impact in the world of technology.
 
 </p>
 </h3>
+<h2>Check out my work on my Portfolio: <a href="https://www.vedantiu.me/">vedantiu.me</a></h2>
 
 > How to reach me : **vedanti.vvu@gmail.com** , **udapurevv@rknec.edu**
 
