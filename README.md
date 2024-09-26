@@ -1,7 +1,8 @@
-<p align="center"> <img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" /> </p>
+<p align="center"><img src="https://github.com/vedanti-u/readme-assets/blob/main/Black%20Simple%20Inspirational%20Quotes%20New%20LinkedIn%20Banner%20(1)(1).png" alt="vedanti-u" /></p>
+<!--<img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" />-->
 <h3>
 <p align="left">
- 
+
 I'm a passionate tech enthusiast, a dedicated problem-solver, and a relentless seeker of knowledge, poised to make a transformative impact in the world of technology.
 
 </p>
