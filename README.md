@@ -2,8 +2,8 @@
 <!--<img src="https://github.com/vedanti-u/vedanti-u/blob/main/ReadmeMedia/github-header-image-1.png" alt="vedanti-u" />-->
 <h3>
 <p align="left">
-
-I'm a passionate tech enthusiast, a dedicated problem-solver, and a relentless seeker of knowledge, poised to make a transformative impact in the world of technology.
+I’m currently seeking internships and entry-level opportunities starting in 2025. Let’s connect and explore how we can achieve great things together!
+<!--I'm a passionate tech enthusiast, a dedicated problem-solver, and a relentless seeker of knowledge, poised to make a transformative impact in the world of technology.-->
 
 </p>
 </h3>
