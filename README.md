@@ -7,7 +7,8 @@ I’m currently seeking internships and entry-level opportunities starting in 20
 
 </p>
 </h3>
-<h2>Check out my work on my Portfolio: <a href="https://www.vedantiu.me/">vedantiu.me</a></h2>
+<h2>Check out my work on my portfolio: <a href="https://www.vedantiu.me/" target="_blank">vedantiu.me</a></h2>
+
 
 > How to reach me : **vedanti.vvu@gmail.com** , **udapurevv@rknec.edu**
 
@@ -19,13 +20,14 @@ I’m currently seeking internships and entry-level opportunities starting in 20
 <a href="https://www.linkedin.com/in/vedanti-udapure/" target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)</a>
 <a href="https://www.instagram.com/_vedanti.u_/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+<a href="https://leetcode.com/u/vedanti_u/" target="blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/vedanti_u" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://codeforces.com/profile/Vedanti.U" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
+
+<!--![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-
+-->
 
 <!--
 <a href="https://twitter.com/vedanti_u" target="blank">![Twitter](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
