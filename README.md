@@ -94,9 +94,9 @@ https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&l
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-
+<!--
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedanti-u&theme=burnt-neon&card_width=469&border=FFFFFF" alt="vedanti-u"> 
 </a>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanti-u&show_icons=true&locale=en&show=prs_merged&theme=neon&bg_color=00000000" alt="vedanti-u" />
