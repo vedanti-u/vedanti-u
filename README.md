@@ -6,11 +6,22 @@ I’m currently seeking entry-level opportunities starting in 2025. Let’s conn
 <!--I'm a passionate tech enthusiast, a dedicated problem-solver, and a relentless seeker of knowledge, poised to make a transformative impact in the world of technology.-->
 
 </p>
+
+
+
 </h3>
 <h2>Check out my work on my portfolio: <a href="https://www.vedantiu.me/" target="_blank">vedantiu.me</a></h2>
 
 
-> How to reach me : **vedanti.vvu@gmail.com** , **udapurevv@rknec.edu**
+### 🌟 A Small Win, A Big Milestone
+> **[`dbsense-ai`](https://www.npmjs.com/package/dbsense-ai)** has crossed **1,000+ downloads** on NPM! 🎉  
+> Thank you to the amazing developer community for the love and support! 🙌
+
+
+### 📨 **Reach out to me at:**  
+> ▫️ **vedanti.vvu@gmail.com**  
+> ▫️ **udapurevv@rknec.edu**
+
 
 ## <h3 align="left">Connect with me:</h3>
 
